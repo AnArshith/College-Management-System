@@ -36,9 +36,6 @@ for colleges and universities.
 
       Login Page
 <img src="webPictures/LoginPage.png" alt="LoginPage" title="LoginPage">
-
-      Home Page
-<img src="webPictures/HomePage.png" alt="HomePage" title="HomePage">
       
       Display Page
 <img src="webPictures/DisplayPage.png" alt="DisplayPage" title="DisplayPage">
