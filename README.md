@@ -34,6 +34,8 @@ for colleges and universities.
 <img src="cms/webPictures/Schema.png" alt="Schema" title="Schema">
 
 ## Screenshots
+      Home page
+<img src="cms/webPictures/home.png" alt="HomePage" title="HomePage">
 
       Login Page
 <img src="cms/webPictures/LoginPage.png" alt="LoginPage" title="LoginPage">
