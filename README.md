@@ -28,15 +28,15 @@ for colleges and universities.
 ## Architecture
 
          ER Diagram
-<img src="webPictures/ER.png" alt="ER" title="ER">
+<img src="cms/webPictures/ER.png" alt="ER" title="ER">
 
          Schema Diagram
-<img src="webPictures/Schema.png" alt="Schema" title="Schema">
+<img src="cms/webPictures/Schema.png" alt="Schema" title="Schema">
 
 ## Screenshots
 
       Login Page
-<img src="webPictures/LoginPage.png" alt="LoginPage" title="LoginPage">
+<img src="cms/webPictures/LoginPage.png" alt="LoginPage" title="LoginPage">
       
       Database
-<img src="webPictures/DB.png" alt="Database" title="Database">
+<img src="cms/webPictures/DB.png" alt="Database" title="Database">
